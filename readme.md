@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Binary to decimal converter app.
@@ -24,11 +24,13 @@ JAVASCRIPT, HTML, CSS
 ## Demo | Netlify
 https://binary2decimalapp.netlify.app/
 
-
 ## Screenshots
 
-![](./Screenshot_2.png)
-![](./Screenshot_1.png)
+![Screenshot_2](https://user-images.githubusercontent.com/92782806/211470350-0f743e7d-c866-4164-8080-24ed788b4ec4.png)
+
+![Screenshot_1](https://user-images.githubusercontent.com/92782806/211470347-888d687f-caf9-43a4-9105-593e3217d111.png)
+
+
 
 
 
